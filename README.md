@@ -14,4 +14,4 @@ where...
 
 Upon an initial analysis of the relationship between our variables we discover the following coefficients:
 
-![Coefficient Output] ("https://github.com/SavFidani/MechaCar/blob/4a699cc439eb1ed4bc44597dc923868d00e03333/Screen%20Shot%202022-06-19%20at%208.54.47%20PM.png")
+![Coefficient Output] <img width="757" alt="Screen Shot 2022-06-19 at 8 54 47 PM" src="https://user-images.githubusercontent.com/99772755/174511838-e950f61c-77e9-43b7-a4de-21133583cc9f.png">
